@@ -1,0 +1,44 @@
+[
+    {
+        "category": "Pollos",
+        "name": "Alita Broaster",
+        "price": 15,
+        "img": "images/Menu/Pollo/AlitaBroaster.png",
+        "description": "Alitas broaster, papas fritas, gaseosa personal y ensalada."
+    },
+    {
+        "category": "Pollos",
+        "name": "Piernas Broaster",
+        "price": 17,
+        "img": "images/Menu/Pollo/PiernaBroaster.png",
+        "description": "Piernas broaster, papas fritas, gaseosa personal y ensalada."
+    },
+    {
+        "category": "Pollos",
+        "name": "Pecho Broaster",
+        "price": 18,
+        "img": "images/Menu/Pollo/PechoBroaster.png",
+        "description": "Pecho broaster, papas fritas, gaseosa personal y ensalada."
+    },
+    {
+        "category": "Pollos",
+        "name": "1/8 A la Brasa",
+        "price": 22,
+        "img": "images/Menu/Pollo/1-8Brasa.png",
+        "description": "1/8 A la Brasa, papas fritas, gaseosa personal y ensalada."
+    },
+    {
+        "category": "Pollos",
+        "name": "1/4 A la Brasa",
+        "price": 27,
+        "img": "images/Menu/Pollo/1-4Brasa.png",
+        "description": "1/4 A la Brasa, papas fritas, gaseosa personal y ensalada."
+    },
+    {
+        "category": "Pollos",
+        "name": "1 Pollo A la Brasa",
+        "price": 71,
+        "img": "images/Menu/Pollo/1Brasa.png",
+        "description": "1 Pollo A la Brasa, papas fritas, gaseosa personal y ensalada."
+    }
+]

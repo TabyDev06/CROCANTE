@@ -1,0 +1,38 @@
+/* ================== FUENTES LOCALES ================== */
+@font-face {
+    font-family: "luckiestGuy";
+    src: url("./assets/Fonts/LuckiestGuy-Regular.ttf");
+}
+
+@font-face {
+    font-family: "lekton";
+    src: url("./assets/Fonts/Lekton-Regular.ttf");
+}
+
+@font-face {
+    font-family: "marcellus";
+    src: url("./assets/Fonts/Marcellus-Regular.ttf");
+}
+
+/* ================== TAILWIND ================== */
+@import "tailwindcss";
+
+/* ================== REGISTRO EN TAILWIND ================== */
+@theme {
+    --font-luckiestGuy: "luckiestGuy", sans-serif;
+    --font-lekton: "lekton", sans-serif;
+    --font-marcellus: "marcellus", serif;
+}
+
+/* ================== UTILITIES ================== */
+@utility font-luckiestGuy {
+    font-family: var(--font-luckiestGuy);
+}
+
+@utility font-lekton {
+    font-family: var(--font-lekton);
+}
+
+@utility font-marcellus {
+    font-family: var(--font-marcellus);
+}
